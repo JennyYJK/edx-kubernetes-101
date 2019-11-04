@@ -17,7 +17,3 @@
 		- Etcd nodes in HA mode
 		- Master nodes in HA mode
 		- Multiple worker nodes to master nodes
-
-
-#kubernetes/edxIntroToKubernetes/chapter5
-#pivotal/flexhour

@@ -1,5 +1,4 @@
 # Chapter 1 From Monolith to Microservices
-## Chapter 1 From Monolith to Microservices
 - Monolith: large single piece of software which continuously grows
 	- Has to be run on expensive and bulky hardware
 - Microservices: lightweight applications packaged with dependencies
@@ -7,5 +6,3 @@
 	- Event-driven architecture and service-oriented architecture principles
 	- Communicate through APIs over a network
 	- 	Modular => Scalable
-
-#kubernetes/edxIntroToKubernetes/chapter1	#pivotal/flexhour

@@ -47,7 +47,3 @@ Volume is attached to a Pod (same lifespan) and allows data to be preserved acro
 	- Attached PersistentVolumes can be released for it to be reclaimed, deleted, or recycled for future usage (data deleted)
 
 	- Container Storage Interface (CSI) is standardized in order to work on different container orchestrators for managing external storage like Volumes
-
-
-
-#pivotal

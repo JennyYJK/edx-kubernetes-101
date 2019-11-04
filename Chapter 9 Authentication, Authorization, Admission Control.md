@@ -76,7 +76,3 @@
 ## Demo
 <a href='LINIKLFS2017-V001100_DTH.mp4'>LINIKLFS2017-V001100_DTH.mp4</a>
 
-
-
-#kubernetes/edxIntroToKubernetes/chapter9	
-#pivotal/flexhour

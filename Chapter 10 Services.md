@@ -96,7 +96,3 @@ ExternalName
 	- returns a `CNAME` record of an externally configured Service
 	- allows externally configured Services (database, etc.) available to apps inside the cluster
 	- apps can access the service by the name in the same namespace
-
-
-#kubernetes/edxIntroToKubernetes/chapter10	
-#pivotal/flexhour

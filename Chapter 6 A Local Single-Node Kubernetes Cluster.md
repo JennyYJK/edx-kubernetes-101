@@ -24,6 +24,3 @@ $ sudo apt-get install -y virtualbox-6.0
 `minikube status`
 `minikube stop`
 
-
-#kubernetes/edxIntroToKubernetes/chapter6	
-#pivotal/flexhour

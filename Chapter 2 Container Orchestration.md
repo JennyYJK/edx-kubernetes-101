@@ -12,6 +12,3 @@
 	- auto-discovery
 	- external accessibility
 	- 0 downtime rollbacks/updates
-
-#kubernetes/edxIntroToKubernetes/chapter2
-#pivotal/flexhour

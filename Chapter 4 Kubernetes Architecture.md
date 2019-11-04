@@ -123,7 +123,3 @@
 			- Exposes services to the external world
 			- Applications accessible by outside world over a virtual IP
 
-
-
-#kubernetes/edxIntroToKubernetes/chapter4	
-#pivotal/flexhour

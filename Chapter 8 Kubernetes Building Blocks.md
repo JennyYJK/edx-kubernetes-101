@@ -103,7 +103,3 @@
 `kubectl set image deployment mynginx nginx=nginx:1.16-alpine`
 `kubectl rollout undo deployment mynginx --to-revision=1`
 
-
-
-#kubernetes/edxIntroToKubernetes/chapter8	
-#pivotal/flexhour

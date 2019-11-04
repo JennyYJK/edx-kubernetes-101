@@ -85,9 +85,3 @@ readinessProbe:
   periodSeconds: 5
 ```
 	- Set up similarly to the Liveness Probe
-
-
-
-
-
-#pivotal

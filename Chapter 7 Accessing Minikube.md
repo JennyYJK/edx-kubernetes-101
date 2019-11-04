@@ -45,7 +45,3 @@
 	- access API server
 	`curl $APISERVER --header "Authorization: Bearer $TOKEN" --insecure`
 
-
-
-#kubernetes/edxIntroToKubernetes/chapter7	
-#pivotal/flexhour

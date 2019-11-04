@@ -25,6 +25,3 @@
 	- scheduling rules
 	- plugins
 
-
-#kubernetes/edxIntroToKubernetes/chapter3	
-#pivotal/flexhour

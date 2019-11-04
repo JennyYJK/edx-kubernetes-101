@@ -145,6 +145,3 @@ spec:
     secret:
       secretName: my-password
 ```
-
-
-#pivotal

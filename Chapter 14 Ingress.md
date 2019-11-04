@@ -77,6 +77,3 @@ spec:
 
 ![](Chapter%2014%20Ingress/Screen%20Shot%202019-09-02%20at%209.07.36%20PM.png)
 
-
-
-#pivotal
